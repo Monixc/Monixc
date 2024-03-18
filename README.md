@@ -4,7 +4,7 @@
   
 **피그마를 사랑하는 프론트엔드 개발자**<br>
 상상하고, 그리고, 개발하기<br><br><br>
-<img width="404" alt="image" src= "https://github.com/Monixc/Monixc/assets/100592495/64f758c7-e7f4-438d-b83f-b477acaab29f"/>
+<img width="405" alt="image" src= "https://github.com/Monixc/Monixc/assets/100592495/64f758c7-e7f4-438d-b83f-b477acaab29f"/>
 <br>
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![r](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
