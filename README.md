@@ -3,8 +3,9 @@
 <div align=center>
   
 **피그마를 사랑하는 프론트엔드 개발자**<br>
-상상하고, 그리고, 개발하기<br><br>
-
+상상하고, 그리고, 개발하기<br><br><br>
+<img width="110" alt="image" src= "https://github.com/Monixc/Monixc/assets/100592495/64f758c7-e7f4-438d-b83f-b477acaab29f"/>
+<br><br><br>
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![r](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![fgm](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -14,7 +15,7 @@
 <br>
 </div>
 
-![cover](https://github.com/Monixc/Monixc/assets/100592495/64f758c7-e7f4-438d-b83f-b477acaab29f)
+
 
 <!--
 **Monixc/Monixc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
