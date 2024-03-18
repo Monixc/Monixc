@@ -12,5 +12,5 @@
 ![vc](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 <br><br>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) -->
-[![Hits](https://hits.sh/github.com/Monixc.svg?view=today-total&style=flat-square&label=%F0%9F%90%A5&color=ffffff&labelColor=ff6600)](https://hits.sh/github.com/Monixc/)
+
 </div>
