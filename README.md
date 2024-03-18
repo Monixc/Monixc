@@ -14,6 +14,7 @@
 <br>
 </div>
 
+![cover](https://github.com/Monixc/Monixc/assets/100592495/64f758c7-e7f4-438d-b83f-b477acaab29f)
 
 <!--
 **Monixc/Monixc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
