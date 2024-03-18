@@ -2,6 +2,9 @@
 
 # Tech Stack
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![sc](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
 <!--
 **Monixc/Monixc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
