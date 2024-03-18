@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=10:FFF500,100:00FFE0&height=150&section=header&text=MONICX&&fontColor=0000000&stroke=00FFE0&fontSize=80&strokeWidth=1&" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=10:FFF500,100:00FFE0&height=150&section=header&text=MONICX&&fontColor=0000000&stroke=00FFE0&fontSize=80&strokeWidth=1&" />
 ### Hi there 👋
 
 <!--
