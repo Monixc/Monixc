@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=10:ffffff,100:FFE500&height=150&section=header&text=MONICX&&fontColor=0000000&stroke=FFE500&fontSize=60&strokeWidth=1&" />
 
 <div align=center>
+  
 ### 피그마를 사랑하는 프론트엔드 개발자<br><br><br>
   
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
