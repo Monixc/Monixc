@@ -13,5 +13,5 @@ Dream, Design, Develop<br><br><br><br>
 <br><br>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) -->
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?@monixc=velopert)](https://github.com/Monicx/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=monixc)](https://velog.io/@monixc)
 </div>
