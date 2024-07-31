@@ -14,4 +14,8 @@ Dream, Design, Develop<br><br><br><br>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) -->
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=monixc)](https://velog.io/@monixc)
+<br>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{monicx}?pet-id=1" width="1000" height="120"/>
+</a>
 </div>
