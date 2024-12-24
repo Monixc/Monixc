@@ -18,7 +18,7 @@ Dream, Design, Develop<br><br><br><br>
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/Monixc"
-  width="600"
+  width="410"
   height="300"
 />
 </a>
