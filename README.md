@@ -24,7 +24,5 @@ Dream, Design, Develop<br><br><br><br>
 </a>
 <br><br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=monixc)](https://velog.io/@monixc)
-
 </div>
 
