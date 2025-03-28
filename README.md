@@ -4,6 +4,7 @@
 
 
 <div align = center>
+  
 ## 🫡 안녕하세요! 프론트로 시작해 백엔드까지, 더 넓은 세계를 탐험 중인 황다경입니다.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=24&duration=6000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&height=70&lines=Dream%2C+Design%2C+Develop;Do%2C+Dare%2C+Dive)](https://git.io/typing-svg)
