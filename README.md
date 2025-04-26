@@ -30,6 +30,14 @@
   height="300"
 />
 </a>
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/703826601923992678/draw"
+        width="410"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 
 
 </div>
